@@ -14,8 +14,8 @@ I'm a self-taught developer from Russia. Currently deepening my skills. I focus 
 ## 🛠 What I work with
 
 **Languages & Frameworks:**
-- Python (Django, FastAPI)
-- SQL (PostgreSQL, SQLite)
+- Python (Flask, Django, FastAPI)
+- SQL (SQLite, MySQL, PostgreSQL)
 
 **Tools & Environment:**
 - Git & GitHub
